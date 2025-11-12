@@ -1,0 +1,37 @@
+Práctica de NunPy
+Análisis de Distribuciones Probabilísticas con NumPy y Matplotlib
+
+Objetivos
+Aplicar los conceptos de generación de distribuciones aleatorias con NumPy.
+Calcular los estadísticos descriptivos de cada distribución.
+Representar visualmente los resultados utilizando Matplotlib.
+Indicaciones
+Generación de datos
+
+Genera dos distribuciones aleatorias de un tamaño de 1.000 observaciones cada una:
+Una Distribución Normal (Gaussiana) con media y desvío estándar a elección.
+Una Distribución Uniforme dentro de un rango que definas.
+Análisis estadístico
+
+Calcula para cada distribución los siguientes valores:
+Media (mean)
+Mediana (median)
+Varianza (var)
+Desvío estándar (std)
+Mínimo y máximo (min, max)
+Visualización
+
+Utiliza Matplotlib para crear dos subplots (gráficos) en una misma figura:
+En el subplot izquierdo, muestra el histograma de la distribución normal.
+En el subplot derecho, muestra el histograma de la distribución uniforme.
+Agrega título general, etiquetas de ejes, leyenda y grilla en cada gráfico. - Agrega título, leyenda y etiquetas de ejes.
+Reflexión
+
+Describe brevemente (en una celda Markdown) las diferencias observadas entre ambas distribuciones según los resultados y el gráfico.
+Criterios de evaluación
+Correcta implementación de PEP8
+Correcto uso de celdas markdown y de código en el Jupyter Notebook.
+Correcta implementación de las funciones de NumPy.
+Cálculo adecuado de los estadísticos descriptivos.
+Uso apropiado y estético de Matplotlib para la visualización.
+Claridad en la interpretación final.
